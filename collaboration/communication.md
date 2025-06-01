@@ -28,13 +28,12 @@
 Our group will get in touch **twice a week** until the
 deadline of the project which is (**August 25th**)
 
-- **Issues**: For bugs, task tracking and more [Evan link on issues]https://mitemergingtalent.slack.com/files/U03PC2VR746/F0862S5644E/creating-issues-from-repository.mp4)
+- **Issues**: For bugs, task tracking and more [Evan link on issues](https://mitemergingtalent.slack.com/files/U03PC2VR746/F0862S5644E/creating-issues-from-repository.mp4)
 - **Pull Requests**: Code review and Discussion
 - **Slack**: Daily communication, quick updates, screen shots, e.tc.
 - **Video Calls**: We will set this up Weekly check-ins, in-depth discussion
 and more
 - **Project Booard**: Visual tracking of task and TO-DO list
-
 
 ---
 
