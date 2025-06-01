@@ -47,14 +47,30 @@ which is August 25th.
 
 ### Weekly availability for calling/messaging
 
-| Team Member | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday  | Sunday   |
-|-------------|---------|---------|-----------|----------|---------|-----------|----------|
-| Mohamed     | 4–8 PM  | 4–8 PM  | 4–8 PM    | 4–8 PM   | 4–8 PM  | 8 AM–8 PM | 8 AM–8 PM|
-| Mervil      | 12–5 PM | 12–5 PM | 12–5 PM   | 12–5 PM  | 12–5 PM | 12–5 PM   | 12–5 PM  |
-| Mithchell   | 4–8 PM  | 4–8 PM  | 4–8 PM    | 4–8 PM   | 4–8 PM  | 8 AM–8 PM | 8 AM–8 PM|
-| Ridwan      | 4–8 PM  | 4–8 PM  | 4–8 PM    | 4–8 PM   | 4–8 PM  | 8 AM–8 PM | 8 AM–8 PM|
-| Sufiya      | 9–3 PM  | 9–3 PM  | 9–3 PM    | 9–3 PM   | 9–3 PM  | 12–3 PM   | 9–2 PM   |
-| Said        | 11–3 PM | 11–9 PM | 11–9 PM   | 11–3 PM  | 11–3 PM | 8–3 PM    | 8–3 PM   |
+- Mohamed:
+  - Mon–Fri: 4–8 PM
+  - Sat–Sun: 8 AM–8 PM
+
+- Mervil:
+  - Every day: 12–5 PM
+
+- Mithchell:
+  - Mon–Fri: 4–8 PM
+  - Sat–Sun: 8 AM–8 PM
+
+- Ridwan:
+  - Mon–Fri: 4–8 PM
+  - Sat–Sun: 8 AM–8 PM
+
+- Sufiya:
+  - Mon–Fri: 9 AM–3 PM
+  - Sat: 12–3 PM
+  - Sun: 9 AM–2 PM
+
+- Said:
+  - Mon, Thu–Fri: 11 AM–3 PM
+  - Tue–Wed: 11 AM–9 PM
+  - Sat–Sun: 8 AM–3 PM
 
 ### Daily availability (in hours)
 
@@ -64,8 +80,6 @@ which is August 25th.
 - Ridwan Ayinde: _5 hours_
 - Sufiya Hashimi: _5 hours_
 - Said Ibraim: _5 hours_
-
----
 
 ## Asking for Help
 
