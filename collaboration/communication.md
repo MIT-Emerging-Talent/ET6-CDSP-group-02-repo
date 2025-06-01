@@ -7,41 +7,58 @@
         you can share the rest in confidence with you group by another channel
 -->
 
-# Communication
+# Communication for group GreenFrontier
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion | | --- | :-: | ----------------------- |
-| | | |
+| Day         | How             | The Topic of Discussion    |
+|-------------|-----------------|----------------------------|
+| Monday      | Slack   | Weekend progress updates           |
+| Tuesday     | Slack   | Prep for video call                |
+| Wednesday   | Zoom Call   | Mid week check-in              |
+| Thursday    | Slack  | Progress updates                    |
+| Friday      | Slack | Prep for video call                  |
+| Saturday    | Video Call | Code review, code help          |
+| Sunday      | Nothing  | Rest Day                          |
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+Our group will get in touch **twice a week** until the
+deadline of the project which is (**August 25th**)
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: For bugs, task tracking and more [Evan link on issues]https://mitemergingtalent.slack.com/files/U03PC2VR746/F0862S5644E/creating-issues-from-repository.mp4)
+- **Pull Requests**: Code review and Discussion
+- **Slack**: Daily communication, quick updates, screen shots, e.tc.
+- **Video Calls**: We will set this up Weekly check-ins, in-depth discussion
+and more
+- **Project Booard**: Visual tracking of task and TO-DO list
+
 
 ---
 
 ## Availability
 
-### Availability for calling/messaging
+### weekly Availability for calling/messaging
 
-| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |     |
-| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: | --- |
-| _name_ |        |         |           |          |        |          |        |
+| Team Member | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday|
+|-------------|--------|---------|-----------|----------|--------|----------|--------|
+| Mohamed     | 4-8PM  | 4-8PM   | 4-8PM     | 4-8PM    | 4-8PM  | 8AM-8PM  | 8AM-8PM|
+| Mervil      |12PM-5PM|12PM-5PM |12PM-5PM   | 12PM-5PM |12PM-5PM|12PM-5PM  |12PM-5PM|
+| Mithchell   | 4-8PM  | 4-8PM   | 4-8PM     | 4-8PM    | 4-8PM  | 8AM-8PM  | 8AM-8PM|
+| Ridwan      | 4-8PM  | 4-8PM   | 4-8PM     | 4-8PM    | 4-8PM  | 8AM-8PM  | 8AM-8PM|
+| Sufiya      |9AM-3PM |9AM-3PM  |9AM-3PM    |9AM-3PM   |9AM-3PM |12AM-3PM  | 9AM-2PM|
+| Said        |11AM-3PM|11AM-9PM |11AM-9PM   |11AM-3PM  |11AM-3PM| 8AM-3PM  | 8AM-3PM|
 
 ### How many hours everyone has per day
 
-- name: _5h_;
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Mohamed Tilal: _5h_;
+- Mervil Pierre Kenley: _6h_;
+- Mithchell Cenatus:_5h_;
+- Ridwan Ayinde: _5h_;
+- Sufiya Hashimi: _5h_;
+- Said Ibraim: _5h_;
 
 ## Asking for Help
 
