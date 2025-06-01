@@ -31,8 +31,7 @@ Our group will get in touch twice a week until the project deadline,
 which is August 25th.
 
 - 🐞 Issues: For bugs, task tracking, and more  
-  ([Video: how to create issues]  
-  (<https://mitemergingtalent.slack.com/files/U03PC2VR746/F0862S5644E/creating-issues-from-repository.mp4>))
+  ([Video: how to create issues](https://mitemergingtalent.slack.com/files/U03PC2VR746/F0862S5644E/creating-issues-from-repository.mp4))
 
 - 🔄 Pull Requests: Code review and discussion
 
