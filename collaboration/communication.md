@@ -1,92 +1,70 @@
 <!--
-  This template is for inspiration; feel free to change it however you like!
+    this template is for inspiration, feel free to change it however you like!
 
-  ⚠️ Careful: Be sure to protect your privacy when filling out this document.
-  Everything you write here will be public, so only share what you're
-  comfortable sharing online. You can share the rest privately with your group
-  through another channel.
+    Careful! be sure to protect your privacy when filling out this document
+        everything you write here will be public
+        so share only what you are comfortable sharing online
+        you can share the rest in confidence with you group by another channel
 -->
 
-# Communication for Group GreenFrontier
+# Communication for group GreenFrontier
 
 ---
 
 ## Communication Schedule
 
-| Day       | How        | Topic of Discussion             |
-|-----------|------------|---------------------------------|
-| Monday    | Slack      | Weekend progress updates        |
-| Tuesday   | Slack      | Prep for video call             |
-| Wednesday | Zoom Call  | Mid-week check-in               |
-| Thursday  | Slack      | Progress updates                |
-| Friday    | Slack      | Prep for video call             |
-| Saturday  | Video Call | Code review, code help          |
-| Sunday    | Nothing    | Rest day                        |
-
----
+| Day         | How             | The Topic of Discussion    |
+|-------------|-----------------|----------------------------|
+| Monday      | Slack   | Weekend progress updates           |
+| Tuesday     | Slack   | Prep for video call                |
+| Wednesday   | Zoom Call   | Mid week check-in              |
+| Thursday    | Slack  | Progress updates                    |
+| Friday      | Slack | Prep for video call                  |
+| Saturday    | Video Call | Code review, code help          |
+| Sunday      | Nothing  | Rest Day                          |
 
 ## Communication Channels
 
-Our group will get in touch twice a week until the project deadline,
-which is August 25th.
+Our group will get in touch **twice a week** until the
+deadline of the project which is (**August 25th**)
 
-- 🐞 Issues: For bugs, task tracking, and more  
-  [[Video: how to create issues](https://mitemergingtalent.slack.com/files/U03PC2VR746/F0862S5644E/creating-issues-from-repository.mp4)]
-
-- 🔄 Pull Requests: Code review and discussion
-
-- 💬 Slack: Daily communication, quick updates, screenshots, etc.
-
-- 📞 Video Calls: Weekly check-ins, in-depth discussions
-
-- 📋 Project Board: Visual tracking of tasks and to-do list
+- **Issues**: For bugs, task tracking and more [Evan link on issues](https://mitemergingtalent.slack.com/files/U03PC2VR746/F0862S5644E/creating-issues-from-repository.mp4)
+- **Pull Requests**: Code review and Discussion
+- **Slack**: Daily communication, quick updates, screen shots, e.tc.
+- **Video Calls**: We will set this up Weekly check-ins, in-depth discussion
+and more
+- **Project Board**: Visual tracking of task and TO-DO list
 
 ---
 
 ## Availability
 
-### Weekly availability for calling/messaging
+### weekly Availability for calling/messaging
 
-- Mohamed:
-  - Mon–Fri: 4–8 PM
-  - Sat–Sun: 8 AM–8 PM
+| Team Member | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday|
+|-------------|--------|---------|-----------|----------|--------|----------|--------|
+| Mohamed     | 4-8PM  | 4-8PM   | 4-8PM     | 4-8PM    | 4-8PM  | 8AM-8PM  | 8AM-8PM|
+| Mervil      |12PM-5PM|12PM-5PM |12PM-5PM   | 12PM-5PM |12PM-5PM|12PM-5PM  |12PM-5PM|
+| Mithchell   | 4-8PM  | 4-8PM   | 4-8PM     | 4-8PM    | 4-8PM  | 8AM-8PM  | 8AM-8PM|
+| Ridwan      | 4-8PM  | 4-8PM   | 4-8PM     | 4-8PM    | 4-8PM  | 8AM-8PM  | 8AM-8PM|
+| Sufiya      |9AM-3PM |9AM-3PM  |9AM-3PM    |9AM-3PM   |9AM-3PM |12AM-3PM  | 9AM-2PM|
+| Said        |11AM-3PM|11AM-9PM |11AM-9PM   |11AM-3PM  |11AM-3PM| 8AM-3PM  | 8AM-3PM|
 
-- Mervil:
-  - Every day: 12–5 PM
+### How many hours everyone has per day
 
-- Mithchell:
-  - Mon–Fri: 4–8 PM
-  - Sat–Sun: 8 AM–8 PM
-
-- Ridwan:
-  - Mon–Fri: 4–8 PM
-  - Sat–Sun: 8 AM–8 PM
-
-- Sufiya:
-  - Mon–Fri: 9 AM–3 PM
-  - Sat: 12–3 PM
-  - Sun: 9 AM–2 PM
-
-- Said:
-  - Mon, Thu–Fri: 11 AM–3 PM
-  - Tue–Wed: 11 AM–9 PM
-  - Sat–Sun: 8 AM–3 PM
-
-### Daily availability (in hours)
-
-- Mohamed Tilal: _5 hours_
-- Mervil Pierre Kenley: _6 hours_
-- Mithchell Cenatus: _5 hours_
-- Ridwan Ayinde: _5 hours_
-- Sufiya Hashimi: _5 hours_
-- Said Ibraim: _5 hours_
+- Mohamed Tilal: _5h_;
+- Mervil Pierre Kenley: _6h_;
+- Mithchell Cenatus:_5h_;
+- Ridwan Ayinde: _5h_;
+- Sufiya Hashimi: _5h_;
+- Said Ibraim: _5h_;
 
 ## Asking for Help
 
-There’s a fine line between confidently learning from your mistakes and
-stubbornly getting nowhere. Here’s a general guide for when to ask for help
-based on how long you’ve been stuck:
+There's a fine line between confidently learning from your mistakes, and
+stubbornly getting no where. Here is a general guide for when to ask for help
+based on how long you've been stuck on the same problem:
 
-1. 0–30 min: Try on your own  
-2. 30–60 min: Ask your group for help  
-3. 60+ min: Tag your coaches on Slack or GitHub
+1. _0 -> 30 min_: Try on your own
+1. _30 -> 60 min_: Ask your group for help
+1. _60+ min_: Tag your coaches in Slack or GitHub
