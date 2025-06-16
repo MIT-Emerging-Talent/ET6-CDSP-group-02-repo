@@ -1,5 +1,3 @@
-# Domain Research
-
 # Project Overview: Climate Change & Urban Heatwaves
 
 This project examines how climate change is increasing the frequency and
