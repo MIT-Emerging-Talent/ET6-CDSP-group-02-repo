@@ -56,6 +56,20 @@ create new challenges for:
 
 ---
 
+## Key Points
+
+- **Stakeholders:** Public-health officials, energy utilities, urban planners,  
+  and vulnerable residents.
+
+- **Systems Thinking:** Rising urban temperatures drive higher cooling demand,  
+  increasing energy use and potentially worsening warming if energy is not  
+  sustainable.
+b
+- **Data:** Analysis uses NASA MODIS and NOAA GHCN datasets, guided by IPCC and
+  peer-reviewed literature.
+  
+  ---
+
 ## 📊 Data & Literature Foundations
 
 We will be reviewing:
@@ -83,3 +97,6 @@ temperature for 3+ consecutive days).
 - Prepare for data collecting in the next milestone
 
 ---
+
+For more details and supporting resources, see the [full problem domain
+summary](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-02-repo/blob/main/0_domain_study/Problem_Domain_Summary.md).
