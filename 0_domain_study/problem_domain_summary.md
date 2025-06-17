@@ -1,5 +1,17 @@
 # Climate Change and Urban Heatwaves
 
+## 🔌 Problem Statement
+
+One of our team members described how residents in both rural and urban Nigerian
+communities struggle with accessing reliable and affordable electricity. In his
+father’s rural village, power outages are frequent—even after people continue
+paying for repairs. In cities like Lagos, people try to cut back on appliance
+use, yet electricity bills still increase, especially during heat waves. This
+reveals a deeper issue: a mismatch between energy infrastructure, pricing
+systems, and climate pressures. As a result, residents—especially those most
+vulnerable—are pushed toward costly or unstable energy alternatives, exposing
+a growing gap between public services and real community needs.
+
 ## 1. Introduction
 
 Our group’s project investigates the intersection of climate change and urban
