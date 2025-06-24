@@ -99,7 +99,7 @@ temperature for 3+ consecutive days).
 ---
 
 For more details and supporting resources, see the [full problem domain
-summary](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-02-repo/blob/main/0_domain_study/Problem_Domain_Summary.md).
+summary](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-02-repo/blob/main/0_domain_study/problem_domain_summary.md).
 
 ## 📊 Milestone 2: Data Collection — Domain Modeling
 

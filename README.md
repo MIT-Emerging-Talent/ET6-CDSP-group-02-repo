@@ -36,7 +36,7 @@ We take a systems-thinking approach to understand how climate, energy, public
 health, and urban infrastructure interact in rapidly urbanizing regions.
 
 🔗 For full domain insights, see [full problem domain
-summary](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-02-repo/blob/main/0_domain_study/Problem_Domain_Summary.md).
+summary](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-02-repo/blob/main/0_domain_study/problem_domain_summary.md).
 
 ---
 
