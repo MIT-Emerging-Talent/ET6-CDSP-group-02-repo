@@ -1,5 +1,14 @@
 # 🌿 Team GreenFrontier
 
+> ⚠️ **Update:** Team GreenFrontier (Group 02) has
+merged with Team **Atmosfear** (Group 09)
+as of Milestone 2.  
+> We are now collaborating on a shared project and have moved our active work to
+a new repository:  
+> 👉 [**Click here to visit the new repo**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-09-repo)
+
+---
+
 Welcome to the collaborative space of **Team GreenFrontier** – Group 02
 of the MIT Emerging Talent CDSP program.
 
@@ -36,7 +45,7 @@ We take a systems-thinking approach to understand how climate, energy, public
 health, and urban infrastructure interact in rapidly urbanizing regions.
 
 🔗 For full domain insights, see [full problem domain
-summary](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-02-repo/blob/main/0_domain_study/Problem_Domain_Summary.md).
+summary](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-02-repo/blob/main/0_domain_study/problem_domain_summary.md).
 
 ---
 
