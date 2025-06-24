@@ -100,3 +100,74 @@ temperature for 3+ consecutive days).
 
 For more details and supporting resources, see the [full problem domain
 summary](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-02-repo/blob/main/0_domain_study/Problem_Domain_Summary.md).
+
+## 📊 Milestone 2: Data Collection — Domain Modeling
+
+## 🧭 How We Modeled Our Domain
+
+To investigate how extreme heat events are evolving in fast-growing cities,  
+we first needed a clear, measurable way to represent "heat waves" and  
+"urbanization" in data.
+
+### 🔥 Modeling Heat Waves
+
+We defined a heat wave using a common scientific metric called **CTX90**,  
+where daily high temperatures exceed the 90th percentile of historical  
+values for at least **three consecutive days**. This allowed us to extract  
+three core measurements per event:
+
+- **Duration**: Total days the heatwave lasted  
+- **Peak intensity**: Highest temperature recorded during the event  
+- **Cumulative heat**: The total excess temperature across all days  
+
+By measuring these, we can track how extreme heat events have changed from  
+1990 to 2024 in both **intensity** and **length**.
+
+### 🏙️ Modeling Rapid Urbanization
+
+We defined “rapidly urbanizing metropolitan areas” by combining two  
+metrics:
+
+- **Population growth rate** (1990–2024)  
+- **Urban land expansion** (change in built-up area)  
+
+Using this, we selected cities from North Africa, Southeast Asia, and the  
+Middle East that have seen dramatic urban growth and are vulnerable to  
+heat-related stress.
+
+### 🗺️ Why This Matters
+
+This modeling helps us explore how rising temperatures and growing cities  
+combine to challenge:
+
+- **Public health systems** (e.g., heat-related illness)  
+- **Electricity utilities** (e.g., increased cooling demand)  
+- **Urban planners** (e.g., protecting vulnerable populations)  
+
+### ⚠️ Modeling Limitations
+
+Despite our efforts, our model has a few key limitations:
+
+- **Temperature data is gridded**, not measured directly at each city’s  
+  weather station. This may smooth out extremes.  
+- **Urbanization metrics are global estimates**, which may miss nuances  
+  like informal settlements or local construction.  
+- **Health and energy data** were only partially available, so we relied  
+  on regional proxies and literature instead of city-level records.  
+
+---
+
+## 📈 Visualizations
+
+**Average Peak Temperature of Heatwaves (1990–2024)**  
+![Peak Temp Trends](../0_domain_study/assets/avg_peak_temp_trends.png)
+
+**Average Duration of Heatwaves (1990–2024)**  
+![Duration Trends](../0_domain_study/assets/avg_duration_trends.png)
+
+**Population Growth of Selected Cities (1990–2024)**  
+![Population Growth](../0_domain_study/assets/population_growth_trends.png)
+
+---
+
+📘 [View Full Data Dictionary](./data_dictionary.md)
